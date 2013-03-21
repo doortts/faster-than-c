@@ -18,8 +18,8 @@ node.js. Well, that's not quite true.  There was [one
 module](https://github.com/masuidrive/node-mysql) by [Yuichiro
 MASUI](http://twitter.com/masuidrive). But unfortunately he never finished it.
 
-<img width="258" src="./faster-than-c/master/figures/other/brian-white.png">
-<img width="698" src="./faster-than-c/master/figures/other/node-mysql-original.png">
+<img width="258" src="https://raw.github.com/doortts/faster-than-c/master/figures/other/brian-white.png">
+<img width="698" src="https://raw.github.com/doortts/faster-than-c/master/figures/other/node-mysql-original.png">
 
 However, there was something interesting about it. It was written in JavaScript.
 I mean just JavaScript, no C/C++. In fact it was even crazier, because when
